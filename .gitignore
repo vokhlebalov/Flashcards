@@ -125,3 +125,599 @@
 /Topics/The while and do-while loops/The sequence/out/production/classes/
 /Topics/The while and do-while loops/Theory/out/
 /Topics/The while and do-while loops/Theory/out/production/classes/
+/.idea/.gitignore
+/Topics/Random/Possible sequences/answer.txt
+/build.gradle
+/.idea/compiler.xml
+/course-info.yaml
+/course-remote-info.yaml
+/.idea/externalDependencies.xml
+/.idea/modules/Flashcards/task/Flashcards.Flashcards-task.iml
+/.idea/modules/Flashcards/task/Flashcards.Flashcards-task.main.iml
+/.idea/modules/Flashcards/task/Flashcards.Flashcards-task.test.iml
+/.idea/modules/Flashcards/task/build/classes/java/Flashcards.Flashcards-task-build-classes-java.iml
+/.idea/modules/Flashcards/task/build/classes/java/Flashcards.Flashcards-task-build-classes-java.main.iml
+/.idea/modules/Flashcards/task/build/classes/java/Flashcards.Flashcards-task-build-classes-java.test.iml
+/.idea/modules/Flashcards/task/build/generated/sources/annotationProcessor/java/Flashcards.Flashcards-task-build-generated-sources-annotationProcessor-java.iml
+/.idea/modules/Flashcards/task/build/generated/sources/annotationProcessor/java/Flashcards.Flashcards-task-build-generated-sources-annotationProcessor-java.main.iml
+/.idea/modules/Flashcards/task/build/generated/sources/annotationProcessor/java/Flashcards.Flashcards-task-build-generated-sources-annotationProcessor-java.test.iml
+/.idea/modules/Flashcards/task/build/generated/sources/headers/java/Flashcards.Flashcards-task-build-generated-sources-headers-java.iml
+/.idea/modules/Flashcards/task/build/generated/sources/headers/java/Flashcards.Flashcards-task-build-generated-sources-headers-java.main.iml
+/.idea/modules/Flashcards/task/build/generated/sources/headers/java/Flashcards.Flashcards-task-build-generated-sources-headers-java.test.iml
+/.idea/modules/Flashcards/task/build/reports/tests/Flashcards.Flashcards-task-build-reports-tests.iml
+/.idea/modules/Flashcards/task/build/reports/tests/Flashcards.Flashcards-task-build-reports-tests.main.iml
+/.idea/modules/Flashcards/task/build/reports/tests/Flashcards.Flashcards-task-build-reports-tests.test.iml
+/.idea/modules/Flashcards/task/build/test-results/Flashcards.Flashcards-task-build-test-results.iml
+/.idea/modules/Flashcards/task/build/test-results/Flashcards.Flashcards-task-build-test-results.main.iml
+/.idea/modules/Flashcards/task/build/test-results/Flashcards.Flashcards-task-build-test-results.test.iml
+/.idea/modules/Flashcards/task/build/tmp/Flashcards.Flashcards-task-build-tmp.iml
+/.idea/modules/Flashcards/task/build/tmp/Flashcards.Flashcards-task-build-tmp.main.iml
+/.idea/modules/Flashcards/task/build/tmp/Flashcards.Flashcards-task-build-tmp.test.iml
+/.idea/modules/Flashcards.iml
+/.idea/modules/Topics/ArrayList/Concat positive numbers/Flashcards.Topics-ArrayList-Concat_positive_numbers.iml
+/.idea/modules/Topics/ArrayList/Concat positive numbers/Flashcards.Topics-ArrayList-Concat_positive_numbers.main.iml
+/.idea/modules/Topics/ArrayList/Concat positive numbers/Flashcards.Topics-ArrayList-Concat_positive_numbers.test.iml
+/.idea/modules/Topics/ArrayList/Find the nearest number/Flashcards.Topics-ArrayList-Find_the_nearest_number.iml
+/.idea/modules/Topics/ArrayList/Find the nearest number/Flashcards.Topics-ArrayList-Find_the_nearest_number.main.iml
+/.idea/modules/Topics/ArrayList/Find the nearest number/Flashcards.Topics-ArrayList-Find_the_nearest_number.test.iml
+/.idea/modules/Topics/ArrayList/The behavior of methods/Flashcards.Topics-ArrayList-The_behavior_of_methods.iml
+/.idea/modules/Topics/ArrayList/The behavior of methods/Flashcards.Topics-ArrayList-The_behavior_of_methods.main.iml
+/.idea/modules/Topics/ArrayList/The behavior of methods/Flashcards.Topics-ArrayList-The_behavior_of_methods.test.iml
+/.idea/modules/Topics/ArrayList/Theory/Flashcards.Topics-ArrayList-Theory.iml
+/.idea/modules/Topics/ArrayList/Theory/Flashcards.Topics-ArrayList-Theory.main.iml
+/.idea/modules/Topics/ArrayList/Theory/Flashcards.Topics-ArrayList-Theory.test.iml
+/.idea/modules/Topics/Boxing and unboxing/Safe converting/Flashcards.Topics-Boxing_and_unboxing-Safe_converting.iml
+/.idea/modules/Topics/Boxing and unboxing/Safe converting/Flashcards.Topics-Boxing_and_unboxing-Safe_converting.main.iml
+/.idea/modules/Topics/Boxing and unboxing/Safe converting/Flashcards.Topics-Boxing_and_unboxing-Safe_converting.test.iml
+/.idea/modules/Topics/Boxing and unboxing/Theory/Flashcards.Topics-Boxing_and_unboxing-Theory.iml
+/.idea/modules/Topics/Boxing and unboxing/Theory/Flashcards.Topics-Boxing_and_unboxing-Theory.main.iml
+/.idea/modules/Topics/Boxing and unboxing/Theory/Flashcards.Topics-Boxing_and_unboxing-Theory.test.iml
+/.idea/modules/Topics/Branching statements/The integer barrier/Flashcards.Topics-Branching_statements-The_integer_barrier.iml
+/.idea/modules/Topics/Branching statements/The integer barrier/Flashcards.Topics-Branching_statements-The_integer_barrier.main.iml
+/.idea/modules/Topics/Branching statements/The integer barrier/Flashcards.Topics-Branching_statements-The_integer_barrier.test.iml
+/.idea/modules/Topics/Branching statements/Theory/Flashcards.Topics-Branching_statements-Theory.iml
+/.idea/modules/Topics/Branching statements/Theory/Flashcards.Topics-Branching_statements-Theory.main.iml
+/.idea/modules/Topics/Branching statements/Theory/Flashcards.Topics-Branching_statements-Theory.test.iml
+/.idea/modules/Topics/Calling a method/Call me awesome/Flashcards.Topics-Calling_a_method-Call_me_awesome.iml
+/.idea/modules/Topics/Calling a method/Call me awesome/Flashcards.Topics-Calling_a_method-Call_me_awesome.main.iml
+/.idea/modules/Topics/Calling a method/Call me awesome/Flashcards.Topics-Calling_a_method-Call_me_awesome.test.iml
+/.idea/modules/Topics/Calling a method/Theory/Flashcards.Topics-Calling_a_method-Theory.iml
+/.idea/modules/Topics/Calling a method/Theory/Flashcards.Topics-Calling_a_method-Theory.main.iml
+/.idea/modules/Topics/Calling a method/Theory/Flashcards.Topics-Calling_a_method-Theory.test.iml
+/.idea/modules/Topics/Command-line arguments/Basic calculator/Flashcards.Topics-Command-line_arguments-Basic_calculator.iml
+/.idea/modules/Topics/Command-line arguments/Basic calculator/Flashcards.Topics-Command-line_arguments-Basic_calculator.main.iml
+/.idea/modules/Topics/Command-line arguments/Basic calculator/Flashcards.Topics-Command-line_arguments-Basic_calculator.test.iml
+/.idea/modules/Topics/Command-line arguments/Command line arguments/Flashcards.Topics-Command-line_arguments-Command_line_arguments.iml
+/.idea/modules/Topics/Command-line arguments/Command line arguments/Flashcards.Topics-Command-line_arguments-Command_line_arguments.main.iml
+/.idea/modules/Topics/Command-line arguments/Command line arguments/Flashcards.Topics-Command-line_arguments-Command_line_arguments.test.iml
+/.idea/modules/Topics/Command-line arguments/Get the game mode/Flashcards.Topics-Command-line_arguments-Get_the_game_mode.iml
+/.idea/modules/Topics/Command-line arguments/Get the game mode/Flashcards.Topics-Command-line_arguments-Get_the_game_mode.main.iml
+/.idea/modules/Topics/Command-line arguments/Get the game mode/Flashcards.Topics-Command-line_arguments-Get_the_game_mode.test.iml
+/.idea/modules/Topics/Command-line arguments/How to start a program/Flashcards.Topics-Command-line_arguments-How_to_start_a_program.iml
+/.idea/modules/Topics/Command-line arguments/How to start a program/Flashcards.Topics-Command-line_arguments-How_to_start_a_program.main.iml
+/.idea/modules/Topics/Command-line arguments/How to start a program/Flashcards.Topics-Command-line_arguments-How_to_start_a_program.test.iml
+/.idea/modules/Topics/Command-line arguments/Theory/Flashcards.Topics-Command-line_arguments-Theory.iml
+/.idea/modules/Topics/Command-line arguments/Theory/Flashcards.Topics-Command-line_arguments-Theory.main.iml
+/.idea/modules/Topics/Command-line arguments/Theory/Flashcards.Topics-Command-line_arguments-Theory.test.iml
+/.idea/modules/Topics/Comments/The countdown/Flashcards.Topics-Comments-The_countdown.iml
+/.idea/modules/Topics/Comments/The countdown/Flashcards.Topics-Comments-The_countdown.main.iml
+/.idea/modules/Topics/Comments/The countdown/Flashcards.Topics-Comments-The_countdown.test.iml
+/.idea/modules/Topics/Comments/Theory/Flashcards.Topics-Comments-Theory.iml
+/.idea/modules/Topics/Comments/Theory/Flashcards.Topics-Comments-Theory.main.iml
+/.idea/modules/Topics/Comments/Theory/Flashcards.Topics-Comments-Theory.test.iml
+/.idea/modules/Topics/Conditional statement/The army of units/Flashcards.Topics-Conditional_statement-The_army_of_units.iml
+/.idea/modules/Topics/Conditional statement/The army of units/Flashcards.Topics-Conditional_statement-The_army_of_units.main.iml
+/.idea/modules/Topics/Conditional statement/The army of units/Flashcards.Topics-Conditional_statement-The_army_of_units.test.iml
+/.idea/modules/Topics/Conditional statement/Theory/Flashcards.Topics-Conditional_statement-Theory.iml
+/.idea/modules/Topics/Conditional statement/Theory/Flashcards.Topics-Conditional_statement-Theory.main.iml
+/.idea/modules/Topics/Conditional statement/Theory/Flashcards.Topics-Conditional_statement-Theory.test.iml
+/.idea/modules/Topics/Constructor/Complex numbers/Flashcards.Topics-Constructor-Complex_numbers.iml
+/.idea/modules/Topics/Constructor/Complex numbers/Flashcards.Topics-Constructor-Complex_numbers.main.iml
+/.idea/modules/Topics/Constructor/Complex numbers/Flashcards.Topics-Constructor-Complex_numbers.test.iml
+/.idea/modules/Topics/Constructor/Theory/Flashcards.Topics-Constructor-Theory.iml
+/.idea/modules/Topics/Constructor/Theory/Flashcards.Topics-Constructor-Theory.main.iml
+/.idea/modules/Topics/Constructor/Theory/Flashcards.Topics-Constructor-Theory.test.iml
+/.idea/modules/Topics/Generics and Object/Boxes are not just objects/Flashcards.Topics-Generics_and_Object-Boxes_are_not_just_objects.iml
+/.idea/modules/Topics/Generics and Object/Boxes are not just objects/Flashcards.Topics-Generics_and_Object-Boxes_are_not_just_objects.main.iml
+/.idea/modules/Topics/Generics and Object/Boxes are not just objects/Flashcards.Topics-Generics_and_Object-Boxes_are_not_just_objects.test.iml
+/.idea/modules/Topics/Generics and Object/Instance without type argument/Flashcards.Topics-Generics_and_Object-Instance_without_type_argument.iml
+/.idea/modules/Topics/Generics and Object/Instance without type argument/Flashcards.Topics-Generics_and_Object-Instance_without_type_argument.main.iml
+/.idea/modules/Topics/Generics and Object/Instance without type argument/Flashcards.Topics-Generics_and_Object-Instance_without_type_argument.test.iml
+/.idea/modules/Topics/Generics and Object/Reusing code with Object/Flashcards.Topics-Generics_and_Object-Reusing_code_with_Object.iml
+/.idea/modules/Topics/Generics and Object/Reusing code with Object/Flashcards.Topics-Generics_and_Object-Reusing_code_with_Object.main.iml
+/.idea/modules/Topics/Generics and Object/Reusing code with Object/Flashcards.Topics-Generics_and_Object-Reusing_code_with_Object.test.iml
+/.idea/modules/Topics/Generics and Object/Theory/Flashcards.Topics-Generics_and_Object-Theory.iml
+/.idea/modules/Topics/Generics and Object/Theory/Flashcards.Topics-Generics_and_Object-Theory.main.iml
+/.idea/modules/Topics/Generics and Object/Theory/Flashcards.Topics-Generics_and_Object-Theory.test.iml
+/.idea/modules/Topics/Generics and Object/What is wrong/Flashcards.Topics-Generics_and_Object-What_is_wrong.iml
+/.idea/modules/Topics/Generics and Object/What is wrong/Flashcards.Topics-Generics_and_Object-What_is_wrong.main.iml
+/.idea/modules/Topics/Generics and Object/What is wrong/Flashcards.Topics-Generics_and_Object-What_is_wrong.test.iml
+/.idea/modules/Topics/Instance methods/Car/Flashcards.Topics-Instance_methods-Car.iml
+/.idea/modules/Topics/Instance methods/Car/Flashcards.Topics-Instance_methods-Car.main.iml
+/.idea/modules/Topics/Instance methods/Car/Flashcards.Topics-Instance_methods-Car.test.iml
+/.idea/modules/Topics/Instance methods/Theory/Flashcards.Topics-Instance_methods-Theory.iml
+/.idea/modules/Topics/Instance methods/Theory/Flashcards.Topics-Instance_methods-Theory.main.iml
+/.idea/modules/Topics/Instance methods/Theory/Flashcards.Topics-Instance_methods-Theory.test.iml
+/.idea/modules/Topics/Interface/Account Service/Flashcards.Topics-Interface-Account_Service.iml
+/.idea/modules/Topics/Interface/Account Service/Flashcards.Topics-Interface-Account_Service.main.iml
+/.idea/modules/Topics/Interface/Account Service/Flashcards.Topics-Interface-Account_Service.test.iml
+/.idea/modules/Topics/Interface/Area of a circle/Flashcards.Topics-Interface-Area_of_a_circle.iml
+/.idea/modules/Topics/Interface/Area of a circle/Flashcards.Topics-Interface-Area_of_a_circle.main.iml
+/.idea/modules/Topics/Interface/Area of a circle/Flashcards.Topics-Interface-Area_of_a_circle.test.iml
+/.idea/modules/Topics/Interface/Compact strings with AsciiCharSequence/Flashcards.Topics-Interface-Compact_strings_with_AsciiCharSequence.iml
+/.idea/modules/Topics/Interface/Compact strings with AsciiCharSequence/Flashcards.Topics-Interface-Compact_strings_with_AsciiCharSequence.main.iml
+/.idea/modules/Topics/Interface/Compact strings with AsciiCharSequence/Flashcards.Topics-Interface-Compact_strings_with_AsciiCharSequence.test.iml
+/.idea/modules/Topics/Interface/Theory/Flashcards.Topics-Interface-Theory.iml
+/.idea/modules/Topics/Interface/Theory/Flashcards.Topics-Interface-Theory.main.iml
+/.idea/modules/Topics/Interface/Theory/Flashcards.Topics-Interface-Theory.test.iml
+/.idea/modules/Topics/Interface/What can an interface have/Flashcards.Topics-Interface-What_can_an_interface_have.iml
+/.idea/modules/Topics/Interface/What can an interface have/Flashcards.Topics-Interface-What_can_an_interface_have.main.iml
+/.idea/modules/Topics/Interface/What can an interface have/Flashcards.Topics-Interface-What_can_an_interface_have.test.iml
+/.idea/modules/Topics/Objects/Change identities/Flashcards.Topics-Objects-Change_identities.iml
+/.idea/modules/Topics/Objects/Change identities/Flashcards.Topics-Objects-Change_identities.main.iml
+/.idea/modules/Topics/Objects/Change identities/Flashcards.Topics-Objects-Change_identities.test.iml
+/.idea/modules/Topics/Objects/Theory/Flashcards.Topics-Objects-Theory.iml
+/.idea/modules/Topics/Objects/Theory/Flashcards.Topics-Objects-Theory.main.iml
+/.idea/modules/Topics/Objects/Theory/Flashcards.Topics-Objects-Theory.test.iml
+/.idea/modules/Topics/Random/Choose a correct invocation/Flashcards.Topics-Random-Choose_a_correct_invocation.iml
+/.idea/modules/Topics/Random/Choose a correct invocation/Flashcards.Topics-Random-Choose_a_correct_invocation.main.iml
+/.idea/modules/Topics/Random/Choose a correct invocation/Flashcards.Topics-Random-Choose_a_correct_invocation.test.iml
+/.idea/modules/Topics/Random/Find the seed/Flashcards.Topics-Random-Find_the_seed.iml
+/.idea/modules/Topics/Random/Find the seed/Flashcards.Topics-Random-Find_the_seed.main.iml
+/.idea/modules/Topics/Random/Find the seed/Flashcards.Topics-Random-Find_the_seed.test.iml
+/.idea/modules/Topics/Random/Gaussian random numbers/Flashcards.Topics-Random-Gaussian_random_numbers.iml
+/.idea/modules/Topics/Random/Gaussian random numbers/Flashcards.Topics-Random-Gaussian_random_numbers.main.iml
+/.idea/modules/Topics/Random/Gaussian random numbers/Flashcards.Topics-Random-Gaussian_random_numbers.test.iml
+/.idea/modules/Topics/Random/Generate random numbers/Flashcards.Topics-Random-Generate_random_numbers.iml
+/.idea/modules/Topics/Random/Generate random numbers/Flashcards.Topics-Random-Generate_random_numbers.main.iml
+/.idea/modules/Topics/Random/Generate random numbers/Flashcards.Topics-Random-Generate_random_numbers.test.iml
+/.idea/modules/Topics/Random/Impossible to generate/Flashcards.Topics-Random-Impossible_to_generate.iml
+/.idea/modules/Topics/Random/Impossible to generate/Flashcards.Topics-Random-Impossible_to_generate.main.iml
+/.idea/modules/Topics/Random/Impossible to generate/Flashcards.Topics-Random-Impossible_to_generate.test.iml
+/.idea/modules/Topics/Random/Theory/Flashcards.Topics-Random-Theory.iml
+/.idea/modules/Topics/Random/Theory/Flashcards.Topics-Random-Theory.main.iml
+/.idea/modules/Topics/Random/Theory/Flashcards.Topics-Random-Theory.test.iml
+/.idea/modules/Topics/Relational operators/Check the value/Flashcards.Topics-Relational_operators-Check_the_value.iml
+/.idea/modules/Topics/Relational operators/Check the value/Flashcards.Topics-Relational_operators-Check_the_value.main.iml
+/.idea/modules/Topics/Relational operators/Check the value/Flashcards.Topics-Relational_operators-Check_the_value.test.iml
+/.idea/modules/Topics/Relational operators/Theory/Flashcards.Topics-Relational_operators-Theory.iml
+/.idea/modules/Topics/Relational operators/Theory/Flashcards.Topics-Relational_operators-Theory.main.iml
+/.idea/modules/Topics/Relational operators/Theory/Flashcards.Topics-Relational_operators-Theory.test.iml
+/.idea/modules/Topics/Scanning the input/Printing strings in the same order/Flashcards.Topics-Scanning_the_input-Printing_strings_in_the_same_order.iml
+/.idea/modules/Topics/Scanning the input/Printing strings in the same order/Flashcards.Topics-Scanning_the_input-Printing_strings_in_the_same_order.main.iml
+/.idea/modules/Topics/Scanning the input/Printing strings in the same order/Flashcards.Topics-Scanning_the_input-Printing_strings_in_the_same_order.test.iml
+/.idea/modules/Topics/Scanning the input/Theory/Flashcards.Topics-Scanning_the_input-Theory.iml
+/.idea/modules/Topics/Scanning the input/Theory/Flashcards.Topics-Scanning_the_input-Theory.main.iml
+/.idea/modules/Topics/Scanning the input/Theory/Flashcards.Topics-Scanning_the_input-Theory.test.iml
+/.idea/modules/Topics/String/Replacing 'a' with 'b'/Flashcards.Topics-String-Replacing_'a'_with_'b'.iml
+/.idea/modules/Topics/String/Replacing 'a' with 'b'/Flashcards.Topics-String-Replacing_'a'_with_'b'.main.iml
+/.idea/modules/Topics/String/Replacing 'a' with 'b'/Flashcards.Topics-String-Replacing_'a'_with_'b'.test.iml
+/.idea/modules/Topics/String/Theory/Flashcards.Topics-String-Theory.iml
+/.idea/modules/Topics/String/Theory/Flashcards.Topics-String-Theory.main.iml
+/.idea/modules/Topics/String/Theory/Flashcards.Topics-String-Theory.test.iml
+/.idea/modules/Topics/Switch statement/Test learners/Flashcards.Topics-Switch_statement-Test_learners.iml
+/.idea/modules/Topics/Switch statement/Test learners/Flashcards.Topics-Switch_statement-Test_learners.main.iml
+/.idea/modules/Topics/Switch statement/Test learners/Flashcards.Topics-Switch_statement-Test_learners.test.iml
+/.idea/modules/Topics/Switch statement/Theory/Flashcards.Topics-Switch_statement-Theory.iml
+/.idea/modules/Topics/Switch statement/Theory/Flashcards.Topics-Switch_statement-Theory.main.iml
+/.idea/modules/Topics/Switch statement/Theory/Flashcards.Topics-Switch_statement-Theory.test.iml
+/.idea/modules/Topics/The for-loop/Arithmetic average/Flashcards.Topics-The_for-loop-Arithmetic_average.iml
+/.idea/modules/Topics/The for-loop/Arithmetic average/Flashcards.Topics-The_for-loop-Arithmetic_average.main.iml
+/.idea/modules/Topics/The for-loop/Arithmetic average/Flashcards.Topics-The_for-loop-Arithmetic_average.test.iml
+/.idea/modules/Topics/The for-loop/The roots of an equation/Flashcards.Topics-The_for-loop-The_roots_of_an_equation.iml
+/.idea/modules/Topics/The for-loop/The roots of an equation/Flashcards.Topics-The_for-loop-The_roots_of_an_equation.main.iml
+/.idea/modules/Topics/The for-loop/The roots of an equation/Flashcards.Topics-The_for-loop-The_roots_of_an_equation.test.iml
+/.idea/modules/Topics/The for-loop/Theory/Flashcards.Topics-The_for-loop-Theory.iml
+/.idea/modules/Topics/The for-loop/Theory/Flashcards.Topics-The_for-loop-Theory.main.iml
+/.idea/modules/Topics/The for-loop/Theory/Flashcards.Topics-The_for-loop-Theory.test.iml
+/.idea/modules/Topics/The List interface/Backward indexes/Flashcards.Topics-The_List_interface-Backward_indexes.iml
+/.idea/modules/Topics/The List interface/Backward indexes/Flashcards.Topics-The_List_interface-Backward_indexes.main.iml
+/.idea/modules/Topics/The List interface/Backward indexes/Flashcards.Topics-The_List_interface-Backward_indexes.test.iml
+/.idea/modules/Topics/The List interface/Filtering the list/Flashcards.Topics-The_List_interface-Filtering_the_list.iml
+/.idea/modules/Topics/The List interface/Filtering the list/Flashcards.Topics-The_List_interface-Filtering_the_list.main.iml
+/.idea/modules/Topics/The List interface/Filtering the list/Flashcards.Topics-The_List_interface-Filtering_the_list.test.iml
+/.idea/modules/Topics/The List interface/Theory/Flashcards.Topics-The_List_interface-Theory.iml
+/.idea/modules/Topics/The List interface/Theory/Flashcards.Topics-The_List_interface-Theory.main.iml
+/.idea/modules/Topics/The List interface/Theory/Flashcards.Topics-The_List_interface-Theory.test.iml
+/.idea/modules/Topics/The Map interface/Counting words/Flashcards.Topics-The_Map_interface-Counting_words.iml
+/.idea/modules/Topics/The Map interface/Counting words/Flashcards.Topics-The_Map_interface-Counting_words.main.iml
+/.idea/modules/Topics/The Map interface/Counting words/Flashcards.Topics-The_Map_interface-Counting_words.test.iml
+/.idea/modules/Topics/The Map interface/Creating a map/Flashcards.Topics-The_Map_interface-Creating_a_map.iml
+/.idea/modules/Topics/The Map interface/Creating a map/Flashcards.Topics-The_Map_interface-Creating_a_map.main.iml
+/.idea/modules/Topics/The Map interface/Creating a map/Flashcards.Topics-The_Map_interface-Creating_a_map.test.iml
+/.idea/modules/Topics/The Map interface/Getting submaps/Flashcards.Topics-The_Map_interface-Getting_submaps.iml
+/.idea/modules/Topics/The Map interface/Getting submaps/Flashcards.Topics-The_Map_interface-Getting_submaps.main.iml
+/.idea/modules/Topics/The Map interface/Getting submaps/Flashcards.Topics-The_Map_interface-Getting_submaps.test.iml
+/.idea/modules/Topics/The Map interface/Modifying a map/Flashcards.Topics-The_Map_interface-Modifying_a_map.iml
+/.idea/modules/Topics/The Map interface/Modifying a map/Flashcards.Topics-The_Map_interface-Modifying_a_map.main.iml
+/.idea/modules/Topics/The Map interface/Modifying a map/Flashcards.Topics-The_Map_interface-Modifying_a_map.test.iml
+/.idea/modules/Topics/The Map interface/Sherlock Holmes and removing of characters/Flashcards.Topics-The_Map_interface-Sherlock_Holmes_and_removing_of_characters.iml
+/.idea/modules/Topics/The Map interface/Sherlock Holmes and removing of characters/Flashcards.Topics-The_Map_interface-Sherlock_Holmes_and_removing_of_characters.main.iml
+/.idea/modules/Topics/The Map interface/Sherlock Holmes and removing of characters/Flashcards.Topics-The_Map_interface-Sherlock_Holmes_and_removing_of_characters.test.iml
+/.idea/modules/Topics/The Map interface/Theory/Flashcards.Topics-The_Map_interface-Theory.iml
+/.idea/modules/Topics/The Map interface/Theory/Flashcards.Topics-The_Map_interface-Theory.main.iml
+/.idea/modules/Topics/The Map interface/Theory/Flashcards.Topics-The_Map_interface-Theory.test.iml
+/.idea/modules/Topics/The Set interface/Elements of a set/Flashcards.Topics-The_Set_interface-Elements_of_a_set.iml
+/.idea/modules/Topics/The Set interface/Elements of a set/Flashcards.Topics-The_Set_interface-Elements_of_a_set.main.iml
+/.idea/modules/Topics/The Set interface/Elements of a set/Flashcards.Topics-The_Set_interface-Elements_of_a_set.test.iml
+/.idea/modules/Topics/The Set interface/Implementations/Flashcards.Topics-The_Set_interface-Implementations.iml
+/.idea/modules/Topics/The Set interface/Implementations/Flashcards.Topics-The_Set_interface-Implementations.main.iml
+/.idea/modules/Topics/The Set interface/Implementations/Flashcards.Topics-The_Set_interface-Implementations.test.iml
+/.idea/modules/Topics/The Set interface/Output elements/Flashcards.Topics-The_Set_interface-Output_elements.iml
+/.idea/modules/Topics/The Set interface/Output elements/Flashcards.Topics-The_Set_interface-Output_elements.main.iml
+/.idea/modules/Topics/The Set interface/Output elements/Flashcards.Topics-The_Set_interface-Output_elements.test.iml
+/.idea/modules/Topics/The Set interface/Spell checker/Flashcards.Topics-The_Set_interface-Spell_checker.iml
+/.idea/modules/Topics/The Set interface/Spell checker/Flashcards.Topics-The_Set_interface-Spell_checker.main.iml
+/.idea/modules/Topics/The Set interface/Spell checker/Flashcards.Topics-The_Set_interface-Spell_checker.test.iml
+/.idea/modules/Topics/The Set interface/The set of programming languages/Flashcards.Topics-The_Set_interface-The_set_of_programming_languages.iml
+/.idea/modules/Topics/The Set interface/The set of programming languages/Flashcards.Topics-The_Set_interface-The_set_of_programming_languages.main.iml
+/.idea/modules/Topics/The Set interface/The set of programming languages/Flashcards.Topics-The_Set_interface-The_set_of_programming_languages.test.iml
+/.idea/modules/Topics/The Set interface/The size of a set/Flashcards.Topics-The_Set_interface-The_size_of_a_set.iml
+/.idea/modules/Topics/The Set interface/The size of a set/Flashcards.Topics-The_Set_interface-The_size_of_a_set.main.iml
+/.idea/modules/Topics/The Set interface/The size of a set/Flashcards.Topics-The_Set_interface-The_size_of_a_set.test.iml
+/.idea/modules/Topics/The Set interface/Theory/Flashcards.Topics-The_Set_interface-Theory.iml
+/.idea/modules/Topics/The Set interface/Theory/Flashcards.Topics-The_Set_interface-Theory.main.iml
+/.idea/modules/Topics/The Set interface/Theory/Flashcards.Topics-The_Set_interface-Theory.test.iml
+/.idea/modules/Topics/The while and do-while loops/The sequence/Flashcards.Topics-The_while_and_do-while_loops-The_sequence.iml
+/.idea/modules/Topics/The while and do-while loops/The sequence/Flashcards.Topics-The_while_and_do-while_loops-The_sequence.main.iml
+/.idea/modules/Topics/The while and do-while loops/The sequence/Flashcards.Topics-The_while_and_do-while_loops-The_sequence.test.iml
+/.idea/modules/Topics/The while and do-while loops/Theory/Flashcards.Topics-The_while_and_do-while_loops-Theory.iml
+/.idea/modules/Topics/The while and do-while loops/Theory/Flashcards.Topics-The_while_and_do-while_loops-Theory.main.iml
+/.idea/modules/Topics/The while and do-while loops/Theory/Flashcards.Topics-The_while_and_do-while_loops-Theory.test.iml
+/.idea/modules/util/Flashcards.util.iml
+/.idea/modules/util/Flashcards.util.main.iml
+/.idea/modules/util/Flashcards.util.test.iml
+/Flashcards/task/test/FlashcardsTest.java
+/.idea/gradle.xml
+/gradle/wrapper/gradle-wrapper.jar
+/gradle/wrapper/gradle-wrapper.properties
+/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml
+/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml
+/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml
+/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml
+/.idea/libraries/Gradle__junit_junit_4_12.xml
+/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml
+/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml
+/.idea/libraries/Gradle__org_assertj_assertj_core_3_11_1.xml
+/.idea/libraries/Gradle__org_assertj_assertj_swing_3_9_2.xml
+/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_9_2.xml
+/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml
+/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml
+/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml
+/gradlew
+/gradlew.bat
+/.idea/jarRepositories.xml
+/Flashcards/lesson-info.yaml
+/Topics/ArrayList/lesson-info.yaml
+/Topics/Boxing and unboxing/lesson-info.yaml
+/Topics/Branching statements/lesson-info.yaml
+/Topics/Calling a method/lesson-info.yaml
+/Topics/Command-line arguments/lesson-info.yaml
+/Topics/Comments/lesson-info.yaml
+/Topics/Conditional statement/lesson-info.yaml
+/Topics/Constructor/lesson-info.yaml
+/Topics/Generics and Object/lesson-info.yaml
+/Topics/Instance methods/lesson-info.yaml
+/Topics/Interface/lesson-info.yaml
+/Topics/Objects/lesson-info.yaml
+/Topics/Random/lesson-info.yaml
+/Topics/Relational operators/lesson-info.yaml
+/Topics/Scanning the input/lesson-info.yaml
+/Topics/String/lesson-info.yaml
+/Topics/Switch statement/lesson-info.yaml
+/Topics/The for-loop/lesson-info.yaml
+/Topics/The List interface/lesson-info.yaml
+/Topics/The Map interface/lesson-info.yaml
+/Topics/The Set interface/lesson-info.yaml
+/Topics/The while and do-while loops/lesson-info.yaml
+/Topics/ArrayList/Concat positive numbers/src/Main.java
+/Topics/ArrayList/Find the nearest number/src/Main.java
+/Topics/Boxing and unboxing/Safe converting/src/Main.java
+/Topics/Branching statements/The integer barrier/src/Main.java
+/Topics/Calling a method/Call me awesome/src/Main.java
+/Topics/Command-line arguments/Basic calculator/src/Main.java
+/Topics/Command-line arguments/Get the game mode/src/Main.java
+/Topics/Comments/The countdown/src/Main.java
+/Topics/Conditional statement/The army of units/src/Main.java
+/Topics/Constructor/Complex numbers/src/Main.java
+/Topics/Generics and Object/Boxes are not just objects/src/Main.java
+/Topics/Instance methods/Car/src/Main.java
+/Topics/Interface/Account Service/src/Main.java
+/Topics/Interface/Area of a circle/src/Main.java
+/Topics/Interface/Compact strings with AsciiCharSequence/src/Main.java
+/Topics/Objects/Change identities/src/Main.java
+/Topics/Random/Find the seed/src/Main.java
+/Topics/Random/Gaussian random numbers/src/Main.java
+/Topics/Random/Generate random numbers/src/Main.java
+/Topics/Relational operators/Check the value/src/Main.java
+/Topics/Scanning the input/Printing strings in the same order/src/Main.java
+/Topics/String/Replacing 'a' with 'b'/src/Main.java
+/Topics/Switch statement/Test learners/src/Main.java
+/Topics/The for-loop/Arithmetic average/src/Main.java
+/Topics/The for-loop/The roots of an equation/src/Main.java
+/Topics/The List interface/Backward indexes/src/Main.java
+/Topics/The List interface/Filtering the list/src/Main.java
+/Topics/The Map interface/Counting words/src/Main.java
+/Topics/The Map interface/Creating a map/src/Main.java
+/Topics/The Map interface/Getting submaps/src/Main.java
+/Topics/The Map interface/Modifying a map/src/Main.java
+/Topics/The Map interface/Sherlock Holmes and removing of characters/src/Main.java
+/Topics/The Set interface/Output elements/src/Main.java
+/Topics/The Set interface/Spell checker/src/Main.java
+/Topics/The while and do-while loops/The sequence/src/Main.java
+/.idea/misc.xml
+/.idea/modules.xml
+/Topics/section-info.yaml
+/settings.gradle
+/.idea/frameworkLessonHistory/storage.storageData
+/.idea/frameworkLessonHistory/storage.storageRecordIndex
+/Flashcards/A good stack/task.html
+/Flashcards/IMPORTant/task.html
+/Flashcards/Make it your own/task.html
+/Flashcards/Menu, please_/task.html
+/Flashcards/Stage one, card one/task.html
+/Flashcards/Statistics/task.html
+/Flashcards/What’s on the card/task.html
+/Topics/ArrayList/Concat positive numbers/task.html
+/Topics/ArrayList/Find the nearest number/task.html
+/Topics/ArrayList/The behavior of methods/task.html
+/Topics/ArrayList/Theory/task.html
+/Topics/Boxing and unboxing/Safe converting/task.html
+/Topics/Boxing and unboxing/Theory/task.html
+/Topics/Branching statements/The integer barrier/task.html
+/Topics/Branching statements/Theory/task.html
+/Topics/Calling a method/Call me awesome/task.html
+/Topics/Calling a method/Theory/task.html
+/Topics/Command-line arguments/Basic calculator/task.html
+/Topics/Command-line arguments/Command line arguments/task.html
+/Topics/Command-line arguments/Get the game mode/task.html
+/Topics/Command-line arguments/How to start a program/task.html
+/Topics/Command-line arguments/Theory/task.html
+/Topics/Comments/The countdown/task.html
+/Topics/Comments/Theory/task.html
+/Topics/Conditional statement/The army of units/task.html
+/Topics/Conditional statement/Theory/task.html
+/Topics/Constructor/Complex numbers/task.html
+/Topics/Constructor/Theory/task.html
+/Topics/Generics and Object/Boxes are not just objects/task.html
+/Topics/Generics and Object/Instance without type argument/task.html
+/Topics/Generics and Object/Reusing code with Object/task.html
+/Topics/Generics and Object/Theory/task.html
+/Topics/Generics and Object/What is wrong/task.html
+/Topics/Instance methods/Car/task.html
+/Topics/Instance methods/Theory/task.html
+/Topics/Interface/Account Service/task.html
+/Topics/Interface/Area of a circle/task.html
+/Topics/Interface/Compact strings with AsciiCharSequence/task.html
+/Topics/Interface/Theory/task.html
+/Topics/Interface/What can an interface have/task.html
+/Topics/Objects/Change identities/task.html
+/Topics/Objects/Theory/task.html
+/Topics/Random/Choose a correct invocation/task.html
+/Topics/Random/Find the seed/task.html
+/Topics/Random/Gaussian random numbers/task.html
+/Topics/Random/Generate random numbers/task.html
+/Topics/Random/Impossible to generate/task.html
+/Topics/Random/Possible sequences/task.html
+/Topics/Random/Theory/task.html
+/Topics/Relational operators/Check the value/task.html
+/Topics/Relational operators/Theory/task.html
+/Topics/Scanning the input/Printing strings in the same order/task.html
+/Topics/Scanning the input/Theory/task.html
+/Topics/String/Replacing 'a' with 'b'/task.html
+/Topics/String/Theory/task.html
+/Topics/Switch statement/Test learners/task.html
+/Topics/Switch statement/Theory/task.html
+/Topics/The for-loop/Arithmetic average/task.html
+/Topics/The for-loop/The roots of an equation/task.html
+/Topics/The for-loop/Theory/task.html
+/Topics/The List interface/Backward indexes/task.html
+/Topics/The List interface/Filtering the list/task.html
+/Topics/The List interface/Theory/task.html
+/Topics/The Map interface/Counting words/task.html
+/Topics/The Map interface/Creating a map/task.html
+/Topics/The Map interface/Getting submaps/task.html
+/Topics/The Map interface/Modifying a map/task.html
+/Topics/The Map interface/Sherlock Holmes and removing of characters/task.html
+/Topics/The Map interface/Theory/task.html
+/Topics/The Set interface/Elements of a set/task.html
+/Topics/The Set interface/Implementations/task.html
+/Topics/The Set interface/Output elements/task.html
+/Topics/The Set interface/Spell checker/task.html
+/Topics/The Set interface/The set of programming languages/task.html
+/Topics/The Set interface/The size of a set/task.html
+/Topics/The Set interface/Theory/task.html
+/Topics/The while and do-while loops/The sequence/task.html
+/Topics/The while and do-while loops/Theory/task.html
+/Topics/ArrayList/The behavior of methods/src/Task.java
+/Topics/ArrayList/Theory/src/Task.java
+/Topics/Boxing and unboxing/Theory/src/Task.java
+/Topics/Branching statements/Theory/src/Task.java
+/Topics/Calling a method/Theory/src/Task.java
+/Topics/Command-line arguments/Command line arguments/src/Task.java
+/Topics/Command-line arguments/How to start a program/src/Task.java
+/Topics/Command-line arguments/Theory/src/Task.java
+/Topics/Comments/Theory/src/Task.java
+/Topics/Conditional statement/Theory/src/Task.java
+/Topics/Constructor/Theory/src/Task.java
+/Topics/Generics and Object/Instance without type argument/src/Task.java
+/Topics/Generics and Object/Reusing code with Object/src/Task.java
+/Topics/Generics and Object/Theory/src/Task.java
+/Topics/Generics and Object/What is wrong/src/Task.java
+/Topics/Instance methods/Theory/src/Task.java
+/Topics/Interface/Theory/src/Task.java
+/Topics/Interface/What can an interface have/src/Task.java
+/Topics/Objects/Theory/src/Task.java
+/Topics/Random/Choose a correct invocation/src/Task.java
+/Topics/Random/Impossible to generate/src/Task.java
+/Topics/Random/Theory/src/Task.java
+/Topics/Relational operators/Theory/src/Task.java
+/Topics/Scanning the input/Theory/src/Task.java
+/Topics/String/Theory/src/Task.java
+/Topics/Switch statement/Theory/src/Task.java
+/Topics/The for-loop/Theory/src/Task.java
+/Topics/The List interface/Theory/src/Task.java
+/Topics/The Map interface/Theory/src/Task.java
+/Topics/The Set interface/Elements of a set/src/Task.java
+/Topics/The Set interface/Implementations/src/Task.java
+/Topics/The Set interface/The set of programming languages/src/Task.java
+/Topics/The Set interface/The size of a set/src/Task.java
+/Topics/The Set interface/Theory/src/Task.java
+/Topics/The while and do-while loops/Theory/src/Task.java
+/Flashcards/A good stack/task-info.yaml
+/Flashcards/IMPORTant/task-info.yaml
+/Flashcards/Make it your own/task-info.yaml
+/Flashcards/Menu, please_/task-info.yaml
+/Flashcards/Stage one, card one/task-info.yaml
+/Flashcards/Statistics/task-info.yaml
+/Flashcards/What’s on the card/task-info.yaml
+/Topics/ArrayList/Concat positive numbers/task-info.yaml
+/Topics/ArrayList/Find the nearest number/task-info.yaml
+/Topics/ArrayList/The behavior of methods/task-info.yaml
+/Topics/ArrayList/Theory/task-info.yaml
+/Topics/Boxing and unboxing/Safe converting/task-info.yaml
+/Topics/Boxing and unboxing/Theory/task-info.yaml
+/Topics/Branching statements/The integer barrier/task-info.yaml
+/Topics/Branching statements/Theory/task-info.yaml
+/Topics/Calling a method/Call me awesome/task-info.yaml
+/Topics/Calling a method/Theory/task-info.yaml
+/Topics/Command-line arguments/Basic calculator/task-info.yaml
+/Topics/Command-line arguments/Command line arguments/task-info.yaml
+/Topics/Command-line arguments/Get the game mode/task-info.yaml
+/Topics/Command-line arguments/How to start a program/task-info.yaml
+/Topics/Command-line arguments/Theory/task-info.yaml
+/Topics/Comments/The countdown/task-info.yaml
+/Topics/Comments/Theory/task-info.yaml
+/Topics/Conditional statement/The army of units/task-info.yaml
+/Topics/Conditional statement/Theory/task-info.yaml
+/Topics/Constructor/Complex numbers/task-info.yaml
+/Topics/Constructor/Theory/task-info.yaml
+/Topics/Generics and Object/Boxes are not just objects/task-info.yaml
+/Topics/Generics and Object/Instance without type argument/task-info.yaml
+/Topics/Generics and Object/Reusing code with Object/task-info.yaml
+/Topics/Generics and Object/Theory/task-info.yaml
+/Topics/Generics and Object/What is wrong/task-info.yaml
+/Topics/Instance methods/Car/task-info.yaml
+/Topics/Instance methods/Theory/task-info.yaml
+/Topics/Interface/Account Service/task-info.yaml
+/Topics/Interface/Area of a circle/task-info.yaml
+/Topics/Interface/Compact strings with AsciiCharSequence/task-info.yaml
+/Topics/Interface/Theory/task-info.yaml
+/Topics/Interface/What can an interface have/task-info.yaml
+/Topics/Objects/Change identities/task-info.yaml
+/Topics/Objects/Theory/task-info.yaml
+/Topics/Random/Choose a correct invocation/task-info.yaml
+/Topics/Random/Find the seed/task-info.yaml
+/Topics/Random/Gaussian random numbers/task-info.yaml
+/Topics/Random/Generate random numbers/task-info.yaml
+/Topics/Random/Impossible to generate/task-info.yaml
+/Topics/Random/Possible sequences/task-info.yaml
+/Topics/Random/Theory/task-info.yaml
+/Topics/Relational operators/Check the value/task-info.yaml
+/Topics/Relational operators/Theory/task-info.yaml
+/Topics/Scanning the input/Printing strings in the same order/task-info.yaml
+/Topics/Scanning the input/Theory/task-info.yaml
+/Topics/String/Replacing 'a' with 'b'/task-info.yaml
+/Topics/String/Theory/task-info.yaml
+/Topics/Switch statement/Test learners/task-info.yaml
+/Topics/Switch statement/Theory/task-info.yaml
+/Topics/The for-loop/Arithmetic average/task-info.yaml
+/Topics/The for-loop/The roots of an equation/task-info.yaml
+/Topics/The for-loop/Theory/task-info.yaml
+/Topics/The List interface/Backward indexes/task-info.yaml
+/Topics/The List interface/Filtering the list/task-info.yaml
+/Topics/The List interface/Theory/task-info.yaml
+/Topics/The Map interface/Counting words/task-info.yaml
+/Topics/The Map interface/Creating a map/task-info.yaml
+/Topics/The Map interface/Getting submaps/task-info.yaml
+/Topics/The Map interface/Modifying a map/task-info.yaml
+/Topics/The Map interface/Sherlock Holmes and removing of characters/task-info.yaml
+/Topics/The Map interface/Theory/task-info.yaml
+/Topics/The Set interface/Elements of a set/task-info.yaml
+/Topics/The Set interface/Implementations/task-info.yaml
+/Topics/The Set interface/Output elements/task-info.yaml
+/Topics/The Set interface/Spell checker/task-info.yaml
+/Topics/The Set interface/The set of programming languages/task-info.yaml
+/Topics/The Set interface/The size of a set/task-info.yaml
+/Topics/The Set interface/Theory/task-info.yaml
+/Topics/The while and do-while loops/The sequence/task-info.yaml
+/Topics/The while and do-while loops/Theory/task-info.yaml
+/Flashcards/A good stack/task-remote-info.yaml
+/Flashcards/IMPORTant/task-remote-info.yaml
+/Flashcards/Make it your own/task-remote-info.yaml
+/Flashcards/Menu, please_/task-remote-info.yaml
+/Flashcards/Stage one, card one/task-remote-info.yaml
+/Flashcards/Statistics/task-remote-info.yaml
+/Flashcards/What’s on the card/task-remote-info.yaml
+/Topics/ArrayList/Concat positive numbers/task-remote-info.yaml
+/Topics/ArrayList/Find the nearest number/task-remote-info.yaml
+/Topics/ArrayList/The behavior of methods/task-remote-info.yaml
+/Topics/ArrayList/Theory/task-remote-info.yaml
+/Topics/Boxing and unboxing/Safe converting/task-remote-info.yaml
+/Topics/Boxing and unboxing/Theory/task-remote-info.yaml
+/Topics/Branching statements/The integer barrier/task-remote-info.yaml
+/Topics/Branching statements/Theory/task-remote-info.yaml
+/Topics/Calling a method/Call me awesome/task-remote-info.yaml
+/Topics/Calling a method/Theory/task-remote-info.yaml
+/Topics/Command-line arguments/Basic calculator/task-remote-info.yaml
+/Topics/Command-line arguments/Command line arguments/task-remote-info.yaml
+/Topics/Command-line arguments/Get the game mode/task-remote-info.yaml
+/Topics/Command-line arguments/How to start a program/task-remote-info.yaml
+/Topics/Command-line arguments/Theory/task-remote-info.yaml
+/Topics/Comments/The countdown/task-remote-info.yaml
+/Topics/Comments/Theory/task-remote-info.yaml
+/Topics/Conditional statement/The army of units/task-remote-info.yaml
+/Topics/Conditional statement/Theory/task-remote-info.yaml
+/Topics/Constructor/Complex numbers/task-remote-info.yaml
+/Topics/Constructor/Theory/task-remote-info.yaml
+/Topics/Generics and Object/Boxes are not just objects/task-remote-info.yaml
+/Topics/Generics and Object/Instance without type argument/task-remote-info.yaml
+/Topics/Generics and Object/Reusing code with Object/task-remote-info.yaml
+/Topics/Generics and Object/Theory/task-remote-info.yaml
+/Topics/Generics and Object/What is wrong/task-remote-info.yaml
+/Topics/Instance methods/Car/task-remote-info.yaml
+/Topics/Instance methods/Theory/task-remote-info.yaml
+/Topics/Interface/Account Service/task-remote-info.yaml
+/Topics/Interface/Area of a circle/task-remote-info.yaml
+/Topics/Interface/Compact strings with AsciiCharSequence/task-remote-info.yaml
+/Topics/Interface/Theory/task-remote-info.yaml
+/Topics/Interface/What can an interface have/task-remote-info.yaml
+/Topics/Objects/Change identities/task-remote-info.yaml
+/Topics/Objects/Theory/task-remote-info.yaml
+/Topics/Random/Choose a correct invocation/task-remote-info.yaml
+/Topics/Random/Find the seed/task-remote-info.yaml
+/Topics/Random/Gaussian random numbers/task-remote-info.yaml
+/Topics/Random/Generate random numbers/task-remote-info.yaml
+/Topics/Random/Impossible to generate/task-remote-info.yaml
+/Topics/Random/Possible sequences/task-remote-info.yaml
+/Topics/Random/Theory/task-remote-info.yaml
+/Topics/Relational operators/Check the value/task-remote-info.yaml
+/Topics/Relational operators/Theory/task-remote-info.yaml
+/Topics/Scanning the input/Printing strings in the same order/task-remote-info.yaml
+/Topics/Scanning the input/Theory/task-remote-info.yaml
+/Topics/String/Replacing 'a' with 'b'/task-remote-info.yaml
+/Topics/String/Theory/task-remote-info.yaml
+/Topics/Switch statement/Test learners/task-remote-info.yaml
+/Topics/Switch statement/Theory/task-remote-info.yaml
+/Topics/The for-loop/Arithmetic average/task-remote-info.yaml
+/Topics/The for-loop/The roots of an equation/task-remote-info.yaml
+/Topics/The for-loop/Theory/task-remote-info.yaml
+/Topics/The List interface/Backward indexes/task-remote-info.yaml
+/Topics/The List interface/Filtering the list/task-remote-info.yaml
+/Topics/The List interface/Theory/task-remote-info.yaml
+/Topics/The Map interface/Counting words/task-remote-info.yaml
+/Topics/The Map interface/Creating a map/task-remote-info.yaml
+/Topics/The Map interface/Getting submaps/task-remote-info.yaml
+/Topics/The Map interface/Modifying a map/task-remote-info.yaml
+/Topics/The Map interface/Sherlock Holmes and removing of characters/task-remote-info.yaml
+/Topics/The Map interface/Theory/task-remote-info.yaml
+/Topics/The Set interface/Elements of a set/task-remote-info.yaml
+/Topics/The Set interface/Implementations/task-remote-info.yaml
+/Topics/The Set interface/Output elements/task-remote-info.yaml
+/Topics/The Set interface/Spell checker/task-remote-info.yaml
+/Topics/The Set interface/The set of programming languages/task-remote-info.yaml
+/Topics/The Set interface/The size of a set/task-remote-info.yaml
+/Topics/The Set interface/Theory/task-remote-info.yaml
+/Topics/The while and do-while loops/The sequence/task-remote-info.yaml
+/Topics/The while and do-while loops/Theory/task-remote-info.yaml
+/.idea/uiDesigner.xml
