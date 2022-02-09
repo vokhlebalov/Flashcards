@@ -1,0 +1,127 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/build/
+/Flashcards/task/out/
+/Flashcards/task/out/production/classes/
+/Topics/ArrayList/Concat positive numbers/out/
+/Topics/ArrayList/Concat positive numbers/out/production/classes/
+/Topics/ArrayList/Find the nearest number/out/
+/Topics/ArrayList/Find the nearest number/out/production/classes/
+/Topics/ArrayList/The behavior of methods/out/
+/Topics/ArrayList/The behavior of methods/out/production/classes/
+/Topics/ArrayList/Theory/out/
+/Topics/ArrayList/Theory/out/production/classes/
+/Topics/Boxing and unboxing/Safe converting/out/
+/Topics/Boxing and unboxing/Safe converting/out/production/classes/
+/Topics/Boxing and unboxing/Theory/out/
+/Topics/Boxing and unboxing/Theory/out/production/classes/
+/Topics/Branching statements/The integer barrier/out/
+/Topics/Branching statements/The integer barrier/out/production/classes/
+/Topics/Branching statements/Theory/out/
+/Topics/Branching statements/Theory/out/production/classes/
+/Topics/Conditional statement/The army of units/out/
+/Topics/Conditional statement/The army of units/out/production/classes/
+/Topics/Conditional statement/Theory/out/
+/Topics/Conditional statement/Theory/out/production/classes/
+/Topics/Constructor/Complex numbers/out/
+/Topics/Constructor/Complex numbers/out/production/classes/
+/Topics/Constructor/Theory/out/
+/Topics/Constructor/Theory/out/production/classes/
+/Topics/Generics and Object/Boxes are not just objects/out/
+/Topics/Generics and Object/Boxes are not just objects/out/production/classes/
+/Topics/Generics and Object/Instance without type argument/out/
+/Topics/Generics and Object/Instance without type argument/out/production/classes/
+/Topics/Generics and Object/Reusing code with Object/out/
+/Topics/Generics and Object/Reusing code with Object/out/production/classes/
+/Topics/Generics and Object/Theory/out/
+/Topics/Generics and Object/Theory/out/production/classes/
+/Topics/Generics and Object/What is wrong/out/
+/Topics/Generics and Object/What is wrong/out/production/classes/
+/Topics/Instance methods/Car/out/
+/Topics/Instance methods/Car/out/production/classes/
+/Topics/Instance methods/Theory/out/
+/Topics/Instance methods/Theory/out/production/classes/
+/Topics/Interface/Account Service/out/
+/Topics/Interface/Account Service/out/production/classes/
+/Topics/Interface/Area of a circle/out/
+/Topics/Interface/Area of a circle/out/production/classes/
+/Topics/Interface/Compact strings with AsciiCharSequence/out/
+/Topics/Interface/Compact strings with AsciiCharSequence/out/production/classes/
+/Topics/Interface/Theory/out/
+/Topics/Interface/Theory/out/production/classes/
+/Topics/Interface/What can an interface have/out/
+/Topics/Interface/What can an interface have/out/production/classes/
+/Topics/Objects/Change identities/out/
+/Topics/Objects/Change identities/out/production/classes/
+/Topics/Objects/Theory/out/
+/Topics/Objects/Theory/out/production/classes/
+/Topics/Random/Choose a correct invocation/out/
+/Topics/Random/Choose a correct invocation/out/production/classes/
+/Topics/Random/Find the seed/out/
+/Topics/Random/Find the seed/out/production/classes/
+/Topics/Random/Gaussian random numbers/out/
+/Topics/Random/Gaussian random numbers/out/production/classes/
+/Topics/Random/Generate random numbers/out/
+/Topics/Random/Generate random numbers/out/production/classes/
+/Topics/Random/Impossible to generate/out/
+/Topics/Random/Impossible to generate/out/production/classes/
+/Topics/Random/Theory/out/
+/Topics/Random/Theory/out/production/classes/
+/Topics/Relational operators/Check the value/out/
+/Topics/Relational operators/Check the value/out/production/classes/
+/Topics/Relational operators/Theory/out/
+/Topics/Relational operators/Theory/out/production/classes/
+/Topics/Scanning the input/Printing strings in the same order/out/
+/Topics/Scanning the input/Printing strings in the same order/out/production/classes/
+/Topics/Scanning the input/Theory/out/
+/Topics/Scanning the input/Theory/out/production/classes/
+/Topics/String/Replacing 'a' with 'b'/out/
+/Topics/String/Replacing 'a' with 'b'/out/production/classes/
+/Topics/String/Theory/out/
+/Topics/String/Theory/out/production/classes/
+/Topics/Switch statement/Test learners/out/
+/Topics/Switch statement/Test learners/out/production/classes/
+/Topics/Switch statement/Theory/out/
+/Topics/Switch statement/Theory/out/production/classes/
+/Topics/The for-loop/Arithmetic average/out/
+/Topics/The for-loop/Arithmetic average/out/production/classes/
+/Topics/The for-loop/The roots of an equation/out/
+/Topics/The for-loop/The roots of an equation/out/production/classes/
+/Topics/The for-loop/Theory/out/
+/Topics/The for-loop/Theory/out/production/classes/
+/Topics/The List interface/Backward indexes/out/
+/Topics/The List interface/Backward indexes/out/production/classes/
+/Topics/The List interface/Filtering the list/out/
+/Topics/The List interface/Filtering the list/out/production/classes/
+/Topics/The List interface/Theory/out/
+/Topics/The List interface/Theory/out/production/classes/
+/Topics/The Map interface/Counting words/out/
+/Topics/The Map interface/Counting words/out/production/classes/
+/Topics/The Map interface/Creating a map/out/
+/Topics/The Map interface/Creating a map/out/production/classes/
+/Topics/The Map interface/Getting submaps/out/
+/Topics/The Map interface/Getting submaps/out/production/classes/
+/Topics/The Map interface/Modifying a map/out/
+/Topics/The Map interface/Modifying a map/out/production/classes/
+/Topics/The Map interface/Sherlock Holmes and removing of characters/out/
+/Topics/The Map interface/Sherlock Holmes and removing of characters/out/production/classes/
+/Topics/The Map interface/Theory/out/
+/Topics/The Map interface/Theory/out/production/classes/
+/Topics/The Set interface/Elements of a set/out/
+/Topics/The Set interface/Elements of a set/out/production/classes/
+/Topics/The Set interface/Implementations/out/
+/Topics/The Set interface/Implementations/out/production/classes/
+/Topics/The Set interface/Output elements/out/
+/Topics/The Set interface/Output elements/out/production/classes/
+/Topics/The Set interface/Spell checker/out/
+/Topics/The Set interface/Spell checker/out/production/classes/
+/Topics/The Set interface/The set of programming languages/out/
+/Topics/The Set interface/The set of programming languages/out/production/classes/
+/Topics/The Set interface/The size of a set/out/
+/Topics/The Set interface/The size of a set/out/production/classes/
+/Topics/The Set interface/Theory/out/
+/Topics/The Set interface/Theory/out/production/classes/
+/Topics/The while and do-while loops/The sequence/out/
+/Topics/The while and do-while loops/The sequence/out/production/classes/
+/Topics/The while and do-while loops/Theory/out/
+/Topics/The while and do-while loops/Theory/out/production/classes/
